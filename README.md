@@ -23,6 +23,8 @@ This project is developed as an IB Personal Project, showcasing skills in data s
 * **Web Framework:** `Flask` or `FastAPI` (for backend API)
 * **Frontend:** HTML, CSS, JavaScript
 * **Data Visualization:** `Plotly.js` (for visualization stretch goal)
+* **Git:** Version control system.
+* **Google Chrome or Microsoft Edge browser**
 
 ## Getting Started
 
