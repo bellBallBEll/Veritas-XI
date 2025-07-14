@@ -1,0 +1,19 @@
+# Virtual environment
+venv/
+
+# Jupyter Notebook specific files
+.ipynb_checkpoints/
+*.ipynb-checkpoint
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Operating System files
+.DS_Store # macOS specific
+
+# IDE specific files (e.g., VS Code)
+.vscode/
+
+# Optionally, if you want to keep raw scraped data locally only
+# *.csv
