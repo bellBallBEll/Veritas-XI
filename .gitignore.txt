@@ -15,5 +15,5 @@ __pycache__/
 # IDE specific files (e.g., VS Code)
 .vscode/
 
-# Optionally, if you want to keep raw scraped data locally only
+# Optional to keep raw scraped data locally only
 # *.csv
