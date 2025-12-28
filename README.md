@@ -2,14 +2,14 @@
 
 ## Overview
 
-Veritas XI is an AI-powered football analytics web application designed to provide insightful, rule-based conclusions on individual player performance. By scraping statistical data, this platform aims to offer unique analytical perspectives beyond traditional statistics, helping users understand player roles and contributions in a deeper context.
+Veritas XI is a football analytics web application designed to provide insightful, rule-based conclusions on individual player performance. By scraping statistical data, this platform aims to offer unique analytical perspectives beyond traditional statistics, helping users understand player roles and contributions in a deeper context.
 
-This project is developed as an IB Personal Project, showcasing skills in data science, web development, and artificial intelligence.
+This project is developed as an IB Personal Project to showcase skills in data science and web development.
 
 ## Features (Planned)
 
 * **Player Data Scraping:** Automated extraction of detailed player statistics from public football data sources (e.g., FBref.com).
-* **Intelligent Player Analysis:** An AI engine that applies defined rules and statistical thresholds to generate unique textual conclusions about player strengths, weaknesses, and archetypes.
+* **Intelligent Player Analysis:** An engine that applies defined rules and statistical thresholds to generate unique textual conclusions about player strengths, weaknesses, and archetypes.
 * **Interactive Web Interface:** A user-friendly web application where users can search for players, view their statistics, and read AI-generated insights.
 * **Data Visualization:** Interactive charts and graphs to visually represent player performance.
 * **Player Clustering (Stretch Goal):** Using unsupervised learning to group players into statistically similar archetypes.
