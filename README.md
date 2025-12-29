@@ -9,7 +9,7 @@ This project is developed as an IB Personal Project to showcase skills in data s
 ## Features (Planned)
 
 * **Player Data Scraping:** Automated extraction of detailed player statistics from public football data sources (e.g., FBref.com).
-* **Intelligent Player Analysis:** An engine that applies defined rules and statistical thresholds to generate unique textual conclusions about player strengths, weaknesses, and archetypes.
+* **Intelligent Player Analysis:** A logical, rule-based AI engine that applies defined rules and statistical thresholds to generate unique textual conclusions about player strengths, weaknesses, and archetypes.
 * **Interactive Web Interface:** A user-friendly web application where users can search for players, view their statistics, and read AI-generated insights.
 * **Data Visualization:** Interactive charts and graphs to visually represent player performance.
 * **Player Clustering (Stretch Goal):** Using unsupervised learning to group players into statistically similar archetypes.
